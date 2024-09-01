@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandl
 from datetime import datetime
 
 # Replace with your bot's token
-TOKEN: Final = '7463335109:AAEhWxxBZoGIYEUgkGWRiLf0r5WuizOnvfA'  
+TOKEN: Final = 'YOUR_TOKEN_API'  
 BOT_USERNAME: Final = '@iamtaskgenie_bot'
 
 # Dictionary to store tasks for each user
